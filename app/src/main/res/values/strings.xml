@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="save">Save</string>
+    <string name="enter_thought">Enter Thoughts</string>
+    <string name="show_data">Show Data</string>
+    <string name="update_data">Update title</string>
+    <string name="interesting_message">Interesting Message</string>
+    <string name="search">search</string>
+    <string name="view_list_button">View List</string>
+</resources>
